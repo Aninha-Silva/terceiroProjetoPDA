@@ -1,0 +1,21 @@
+.pesquisar{
+    margin-bottom: 30px;
+    border-radius: 0px;
+    width: 600px;
+    margin-right: auto;
+    margin-left: auto;
+    display: flex;
+}
+.pesquisar-produto{
+    background-color:rgb(146, 149, 144);
+    width: 300%;
+    border-radius: 1px;
+    border: 0;
+    background: linear-gradient(to right,#b7c2cb ,#e9ecee );
+}
+.pesquisar-produ{
+    background-color: rgb(209, 215, 205);
+    border-radius: 5px;
+    cursor:pointer;
+    background: linear-gradient(to right, #a3b8c8 ,#4b5d6a);
+}

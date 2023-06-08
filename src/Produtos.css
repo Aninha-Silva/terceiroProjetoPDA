@@ -1,0 +1,43 @@
+.form-group {
+    background-color: #F0F8FF;
+    font-family: sans-serif;
+    font-size: 1em;
+    color: #59429d;
+    margin-left: 23rem;
+    margin-right: 23rem;
+    margin-top: 3rem;
+    margin-bottom: 4rem;
+    height: 20rem;
+    justify-content: center;
+
+}
+
+.idProduto{
+    height: 2rem;
+    margin: 2rem;
+
+}
+
+.tituloProduto{
+    height: 2rem;
+    margin: 2rem;
+}
+
+.descricaoProduto{
+    height: 2rem;
+    margin: 2rem;
+}
+
+.valorProduto{
+    height: 2rem;
+    margin: 2rem;
+
+}
+
+.btn-outline-dark {
+    float: right;
+    margin-right: 3%;
+    height: 40px;
+    text-align: right;
+    margin-top: 25px;
+}
